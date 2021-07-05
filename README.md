@@ -1,2 +1,2 @@
 # AIPRA
-My Youtube channel notebooks
+My Youtube channel notebooks.
